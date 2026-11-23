@@ -1,0 +1,661 @@
+{
+  "title": "Bí mật âm thanh dưới đáy đại dương",
+  "subtitle": "Tại sao cá voi lại ca hát?",
+  "introSeconds": 5,
+  "outroSeconds": 5,
+  "scenes": [
+    {
+      "title": "Sự tĩnh lặng giả tạo",
+      "body": "Chúng ta thường nghĩ đại dương là một nơi tĩnh mịch và yên bình. Nhưng nếu bạn có thể nghe được âm thanh dưới đó, bạn sẽ nhận ra một thế giới náo nhiệt đến kinh ngạc đang diễn ra.",
+      "highlight": "đại dương náo nhiệt",
+      "visualPrompt": "Cinematic shot of deep blue ocean water with sunlight rays penetrating from the surface, high quality, photorealistic.",
+      "imageQuery": "deep ocean sunlight",
+      "seconds": 12,
+      "image": "assets/scenes/single-fact-v3.9.3-scene-1-image-1.svg",
+      "imageCredit": {
+        "source": "FACTS LAB",
+        "attribution": "Locally generated vector illustration"
+      },
+      "images": [
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-1-image-1.svg",
+          "credit": {
+            "source": "FACTS LAB",
+            "attribution": "Locally generated vector illustration"
+          },
+          "visualBeat": "wide establishing shot"
+        },
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-1-image-2.jpg",
+          "credit": {
+            "source": "Wikimedia Commons",
+            "photographer": "National Marine Sanctuaries",
+            "license": "Public domain",
+            "photoUrl": "https://commons.wikimedia.org/wiki/File:NMSAS_-_Reef_In_Sunlight_(31782520361).jpg",
+            "attribution": "Image: National Marine Sanctuaries — Public domain — Wikimedia Commons"
+          },
+          "visualBeat": "close-up subject detail"
+        },
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-1-image-3.svg",
+          "credit": {
+            "source": "FACTS LAB",
+            "attribution": "Locally generated vector illustration"
+          },
+          "visualBeat": "action or contextual detail"
+        }
+      ]
+    },
+    {
+      "title": "Tiếng hát của đại dương",
+      "body": "Đó chính là những bản tình ca của cá voi lưng gù. Những âm thanh này không hề ngẫu nhiên, chúng là những giai điệu phức tạp, có nhịp điệu và cấu trúc âm nhạc đầy kỳ lạ.",
+      "highlight": "bản tình ca cá voi",
+      "visualPrompt": "A humpback whale swimming gracefully in the deep blue sea, captured from a side angle, cinematic lighting.",
+      "imageQuery": "humpback whale underwater",
+      "seconds": 14,
+      "image": "assets/scenes/single-fact-v3.9.3-scene-2-image-1.jpg",
+      "imageCredit": {
+        "source": "Wikimedia Commons",
+        "photographer": "Christopher Michel",
+        "license": "CC BY 2.0",
+        "photoUrl": "https://commons.wikimedia.org/wiki/File:Humpback_whale_by_Christopher_Michel.jpg",
+        "attribution": "Image: Christopher Michel — CC BY 2.0 — Wikimedia Commons"
+      },
+      "images": [
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-2-image-1.jpg",
+          "credit": {
+            "source": "Wikimedia Commons",
+            "photographer": "Christopher Michel",
+            "license": "CC BY 2.0",
+            "photoUrl": "https://commons.wikimedia.org/wiki/File:Humpback_whale_by_Christopher_Michel.jpg",
+            "attribution": "Image: Christopher Michel — CC BY 2.0 — Wikimedia Commons"
+          },
+          "visualBeat": "wide establishing shot"
+        },
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-2-image-2.jpg",
+          "credit": {
+            "source": "Wikimedia Commons",
+            "photographer": "Sylke Rohrlach from Sydney",
+            "license": "CC BY-SA 2.0",
+            "photoUrl": "https://commons.wikimedia.org/wiki/File:Humpback_Whale-Megaptera_novaeangliae_(16793944076).jpg",
+            "attribution": "Image: Sylke Rohrlach from Sydney — CC BY-SA 2.0 — Wikimedia Commons"
+          },
+          "visualBeat": "close-up subject detail"
+        },
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-2-image-3.jpg",
+          "credit": {
+            "source": "Wikimedia Commons",
+            "photographer": "Sylke Rohrlach from Sydney",
+            "license": "CC BY-SA 2.0",
+            "photoUrl": "https://commons.wikimedia.org/wiki/File:Humpback_Whale-Megaptera_novaeangliae_(16632729960).jpg",
+            "attribution": "Image: Sylke Rohrlach from Sydney — CC BY-SA 2.0 — Wikimedia Commons"
+          },
+          "visualBeat": "action or contextual detail"
+        }
+      ]
+    },
+    {
+      "title": "Cơ chế tạo âm",
+      "body": "Không giống con người dùng dây thanh quản, cá voi tạo ra âm thanh bằng cách tái sử dụng không khí trong khoang cơ thể. Chúng đẩy khí qua các cấu trúc phức tạp để tạo ra tần số.",
+      "highlight": "cơ chế tạo âm",
+      "visualPrompt": "Close up artistic representation of whale anatomy and sound waves, glowing blue light effects, highly detailed.",
+      "imageQuery": "whale sound wave anatomy",
+      "seconds": 15,
+      "image": "assets/scenes/single-fact-v3.9.3-scene-3-image-1.svg",
+      "imageCredit": {
+        "source": "FACTS LAB",
+        "attribution": "Locally generated vector illustration"
+      },
+      "images": [
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-3-image-1.svg",
+          "credit": {
+            "source": "FACTS LAB",
+            "attribution": "Locally generated vector illustration"
+          },
+          "visualBeat": "wide establishing shot"
+        },
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-3-image-2.svg",
+          "credit": {
+            "source": "FACTS LAB",
+            "attribution": "Locally generated vector illustration"
+          },
+          "visualBeat": "close-up subject detail"
+        },
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-3-image-3.svg",
+          "credit": {
+            "source": "FACTS LAB",
+            "attribution": "Locally generated vector illustration"
+          },
+          "visualBeat": "action or contextual detail"
+        }
+      ]
+    },
+    {
+      "title": "Ngôn ngữ lan tỏa",
+      "body": "Nước dẫn âm thanh nhanh gấp bốn lần so với không khí. Một bài hát của cá voi có thể truyền đi hàng ngàn cây số, kết nối những cá thể ở cách xa nhau nửa đại dương.",
+      "highlight": "truyền âm dưới nước",
+      "visualPrompt": "Underwater visualization of sound waves rippling through the ocean, artistic and scientific aesthetic, cinematic.",
+      "imageQuery": "underwater sound waves",
+      "seconds": 14,
+      "image": "assets/scenes/single-fact-v3.9.3-scene-4-image-1.svg",
+      "imageCredit": {
+        "source": "FACTS LAB",
+        "attribution": "Locally generated vector illustration"
+      },
+      "images": [
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-4-image-1.svg",
+          "credit": {
+            "source": "FACTS LAB",
+            "attribution": "Locally generated vector illustration"
+          },
+          "visualBeat": "wide establishing shot"
+        },
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-4-image-2.svg",
+          "credit": {
+            "source": "FACTS LAB",
+            "attribution": "Locally generated vector illustration"
+          },
+          "visualBeat": "close-up subject detail"
+        },
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-4-image-3.svg",
+          "credit": {
+            "source": "FACTS LAB",
+            "attribution": "Locally generated vector illustration"
+          },
+          "visualBeat": "action or contextual detail"
+        }
+      ]
+    },
+    {
+      "title": "Văn hóa cá voi",
+      "body": "Điều kinh ngạc nhất là cá voi học hỏi bài hát từ nhau. Một bài hát mới xuất hiện ở phía đông có thể lan rộng khắp đại dương, giống như một xu hướng âm nhạc toàn cầu.",
+      "highlight": "văn hóa âm nhạc",
+      "visualPrompt": "Two humpback whales swimming together in the deep sea, ethereal atmosphere, cinematic composition.",
+      "imageQuery": "whales swimming together",
+      "seconds": 15,
+      "image": "assets/scenes/single-fact-v3.9.3-scene-5-image-1.svg",
+      "imageCredit": {
+        "source": "FACTS LAB",
+        "attribution": "Locally generated vector illustration"
+      },
+      "images": [
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-5-image-1.svg",
+          "credit": {
+            "source": "FACTS LAB",
+            "attribution": "Locally generated vector illustration"
+          },
+          "visualBeat": "wide establishing shot"
+        },
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-5-image-2.svg",
+          "credit": {
+            "source": "FACTS LAB",
+            "attribution": "Locally generated vector illustration"
+          },
+          "visualBeat": "close-up subject detail"
+        },
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-5-image-3.svg",
+          "credit": {
+            "source": "FACTS LAB",
+            "attribution": "Locally generated vector illustration"
+          },
+          "visualBeat": "action or contextual detail"
+        }
+      ]
+    },
+    {
+      "title": "Mục đích của việc hát",
+      "body": "Các nhà khoa học tin rằng, chủ yếu chỉ có con đực hát để thu hút bạn tình hoặc khẳng định vị thế với các con đực khác, tạo nên một cuộc cạnh tranh đầy nghệ thuật.",
+      "highlight": "cạnh tranh nghệ thuật",
+      "visualPrompt": "A large humpback whale breaching the surface in the distance at sunset, dramatic lighting, epic scale.",
+      "imageQuery": "whale breaching sunset",
+      "seconds": 15,
+      "image": "assets/scenes/single-fact-v3.9.3-scene-6-image-1.svg",
+      "imageCredit": {
+        "source": "FACTS LAB",
+        "attribution": "Locally generated vector illustration"
+      },
+      "images": [
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-6-image-1.svg",
+          "credit": {
+            "source": "FACTS LAB",
+            "attribution": "Locally generated vector illustration"
+          },
+          "visualBeat": "wide establishing shot"
+        },
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-6-image-2.svg",
+          "credit": {
+            "source": "FACTS LAB",
+            "attribution": "Locally generated vector illustration"
+          },
+          "visualBeat": "close-up subject detail"
+        },
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-6-image-3.svg",
+          "credit": {
+            "source": "FACTS LAB",
+            "attribution": "Locally generated vector illustration"
+          },
+          "visualBeat": "action or contextual detail"
+        }
+      ]
+    },
+    {
+      "title": "Sự thay đổi theo thời gian",
+      "body": "Những bài hát này không cố định. Chúng tiến hóa theo từng năm, các nốt nhạc được thêm thắt hoặc thay đổi, khiến cho kho tàng âm nhạc của cá voi luôn luôn mới mẻ và sống động.",
+      "highlight": "tiến hóa âm nhạc",
+      "visualPrompt": "Abstract visualization of musical notes floating in deep blue water, minimalist and elegant, cinematic.",
+      "imageQuery": "abstract music notes underwater",
+      "seconds": 14,
+      "image": "assets/scenes/single-fact-v3.9.3-scene-7-image-1.svg",
+      "imageCredit": {
+        "source": "FACTS LAB",
+        "attribution": "Locally generated vector illustration"
+      },
+      "images": [
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-7-image-1.svg",
+          "credit": {
+            "source": "FACTS LAB",
+            "attribution": "Locally generated vector illustration"
+          },
+          "visualBeat": "wide establishing shot"
+        },
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-7-image-2.svg",
+          "credit": {
+            "source": "FACTS LAB",
+            "attribution": "Locally generated vector illustration"
+          },
+          "visualBeat": "close-up subject detail"
+        },
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-7-image-3.svg",
+          "credit": {
+            "source": "FACTS LAB",
+            "attribution": "Locally generated vector illustration"
+          },
+          "visualBeat": "action or contextual detail"
+        }
+      ]
+    },
+    {
+      "title": "Thông điệp từ đại dương",
+      "body": "Việc hiểu được ngôn ngữ này không chỉ là khoa học, mà còn là sự kết nối với trí tuệ cổ xưa. Đại dương không bao giờ im lặng, nó chỉ đang chờ chúng ta thực sự lắng nghe.",
+      "highlight": "lắng nghe đại dương",
+      "visualPrompt": "A diver observing a whale from a safe distance in the deep ocean, sense of wonder, cinematic wide shot.",
+      "imageQuery": "diver observing whale",
+      "seconds": 16,
+      "image": "assets/scenes/single-fact-v3.9.3-scene-8-image-1.svg",
+      "imageCredit": {
+        "source": "FACTS LAB",
+        "attribution": "Locally generated vector illustration"
+      },
+      "images": [
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-8-image-1.svg",
+          "credit": {
+            "source": "FACTS LAB",
+            "attribution": "Locally generated vector illustration"
+          },
+          "visualBeat": "wide establishing shot"
+        },
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-8-image-2.svg",
+          "credit": {
+            "source": "FACTS LAB",
+            "attribution": "Locally generated vector illustration"
+          },
+          "visualBeat": "close-up subject detail"
+        },
+        {
+          "src": "assets/scenes/single-fact-v3.9.3-scene-8-image-3.svg",
+          "credit": {
+            "source": "FACTS LAB",
+            "attribution": "Locally generated vector illustration"
+          },
+          "visualBeat": "action or contextual detail"
+        }
+      ]
+    }
+  ],
+  "voiceoverSeconds": 83.68475,
+  "timeline": {
+    "intro": {
+      "start": 0,
+      "end": 3.3436666666666666
+    },
+    "scenes": [
+      {
+        "start": 3.3436666666666666,
+        "end": 13.467583333333334
+      },
+      {
+        "start": 13.467583333333334,
+        "end": 22.523375
+      },
+      {
+        "start": 22.523375,
+        "end": 32.554375
+      },
+      {
+        "start": 32.554375,
+        "end": 41.842375000000004
+      },
+      {
+        "start": 41.842375000000004,
+        "end": 50.851708333333335
+      },
+      {
+        "start": 50.851708333333335,
+        "end": 58.93225
+      },
+      {
+        "start": 58.93225,
+        "end": 68.63820833333334
+      },
+      {
+        "start": 68.63820833333334,
+        "end": 77.46179166666667
+      }
+    ],
+    "outro": {
+      "start": 77.46179166666667,
+      "end": 83.68475000000001
+    }
+  },
+  "subtitleCues": [
+    {
+      "start": 0,
+      "end": 1.5603777777777776,
+      "text": "Bí mật âm thanh dưới đáy đại"
+    },
+    {
+      "start": 1.5603777777777776,
+      "end": 3.1207555555555553,
+      "text": "dương. Tại sao cá voi lại ca"
+    },
+    {
+      "start": 3.1207555555555553,
+      "end": 3.3436666666666666,
+      "text": "hát?"
+    },
+    {
+      "start": 3.3436666666666666,
+      "end": 5.089169540229885,
+      "text": "Chúng ta thường nghĩ đại dương"
+    },
+    {
+      "start": 5.089169540229885,
+      "end": 6.660122126436781,
+      "text": "là một nơi tĩnh mịch và yên"
+    },
+    {
+      "start": 6.660122126436781,
+      "end": 8.463808429118775,
+      "text": "bình. Nhưng nếu bạn có thể nghe"
+    },
+    {
+      "start": 8.463808429118775,
+      "end": 10.151127873563219,
+      "text": "được âm thanh dưới đó, bạn sẽ"
+    },
+    {
+      "start": 10.151127873563219,
+      "end": 11.896630747126437,
+      "text": "nhận ra một thế giới náo nhiệt"
+    },
+    {
+      "start": 11.896630747126437,
+      "end": 13.467583333333334,
+      "text": "đến kinh ngạc đang diễn ra."
+    },
+    {
+      "start": 13.467583333333334,
+      "end": 15.07873645194274,
+      "text": "Đó chính là những bản tình ca"
+    },
+    {
+      "start": 15.07873645194274,
+      "end": 16.634332566462167,
+      "text": "của cá voi lưng gù. Những âm"
+    },
+    {
+      "start": 16.634332566462167,
+      "end": 18.301042689161555,
+      "text": "thanh này không hề ngẫu nhiên,"
+    },
+    {
+      "start": 18.301042689161555,
+      "end": 19.912195807770964,
+      "text": "chúng là những giai điệu phức"
+    },
+    {
+      "start": 19.912195807770964,
+      "end": 21.69001993865031,
+      "text": "tạp, có nhịp điệu và cấu trúc âm"
+    },
+    {
+      "start": 21.69001993865031,
+      "end": 22.523375,
+      "text": "nhạc đầy kỳ lạ."
+    },
+    {
+      "start": 22.523375,
+      "end": 24.28319956140351,
+      "text": "Không giống con người dùng dây"
+    },
+    {
+      "start": 24.28319956140351,
+      "end": 25.925702485380118,
+      "text": "thanh quản, cá voi tạo ra âm"
+    },
+    {
+      "start": 25.925702485380118,
+      "end": 27.509544590643277,
+      "text": "thanh bằng cách tái sử dụng"
+    },
+    {
+      "start": 27.509544590643277,
+      "end": 29.269369152046785,
+      "text": "không khí trong khoang cơ thể."
+    },
+    {
+      "start": 29.269369152046785,
+      "end": 31.029193713450294,
+      "text": "Chúng đẩy khí qua các cấu trúc"
+    },
+    {
+      "start": 31.029193713450294,
+      "end": 32.554375,
+      "text": "phức tạp để tạo ra tần số."
+    },
+    {
+      "start": 32.554375,
+      "end": 34.388311305732486,
+      "text": "Nước dẫn âm thanh nhanh gấp bốn"
+    },
+    {
+      "start": 34.388311305732486,
+      "end": 36.10392914012739,
+      "text": "lần so với không khí. Một bài"
+    },
+    {
+      "start": 36.10392914012739,
+      "end": 37.93786544585988,
+      "text": "hát của cá voi có thể truyền đi"
+    },
+    {
+      "start": 37.93786544585988,
+      "end": 39.77180175159236,
+      "text": "hàng ngàn cây số, kết nối những"
+    },
+    {
+      "start": 39.77180175159236,
+      "end": 41.48741958598727,
+      "text": "cá thể ở cách xa nhau nửa đại"
+    },
+    {
+      "start": 41.48741958598727,
+      "end": 41.842375000000004,
+      "text": "dương."
+    },
+    {
+      "start": 41.842375000000004,
+      "end": 43.47531666666667,
+      "text": "Điều kinh ngạc nhất là cá voi"
+    },
+    {
+      "start": 43.47531666666667,
+      "end": 45.27718333333334,
+      "text": "học hỏi bài hát từ nhau. Một bài"
+    },
+    {
+      "start": 45.27718333333334,
+      "end": 47.07905000000001,
+      "text": "hát mới xuất hiện ở phía đông có"
+    },
+    {
+      "start": 47.07905000000001,
+      "end": 48.65568333333334,
+      "text": "thể lan rộng khắp đại dương,"
+    },
+    {
+      "start": 48.65568333333334,
+      "end": 50.344933333333344,
+      "text": "giống như một xu hướng âm nhạc"
+    },
+    {
+      "start": 50.344933333333344,
+      "end": 50.851708333333335,
+      "text": "toàn cầu."
+    },
+    {
+      "start": 50.851708333333335,
+      "end": 52.39576088110404,
+      "text": "Các nhà khoa học tin rằng, chủ"
+    },
+    {
+      "start": 52.39576088110404,
+      "end": 53.888345010615716,
+      "text": "yếu chỉ có con đực hát để thu"
+    },
+    {
+      "start": 53.888345010615716,
+      "end": 55.48386597664544,
+      "text": "hút bạn tình hoặc khẳng định vị"
+    },
+    {
+      "start": 55.48386597664544,
+      "end": 56.97645010615712,
+      "text": "thế với các con đực khác, tạo"
+    },
+    {
+      "start": 56.97645010615712,
+      "end": 58.62343949044586,
+      "text": "nên một cuộc cạnh tranh đầy nghệ"
+    },
+    {
+      "start": 58.62343949044586,
+      "end": 58.93225,
+      "text": "thuật."
+    },
+    {
+      "start": 58.93225,
+      "end": 60.770064595660756,
+      "text": "Những bài hát này không cố định."
+    },
+    {
+      "start": 60.770064595660756,
+      "end": 62.43558407297831,
+      "text": "Chúng tiến hóa theo từng năm,"
+    },
+    {
+      "start": 62.43558407297831,
+      "end": 64.27339866863906,
+      "text": "các nốt nhạc được thêm thắt hoặc"
+    },
+    {
+      "start": 64.27339866863906,
+      "end": 66.0537815581854,
+      "text": "thay đổi, khiến cho kho tàng âm"
+    },
+    {
+      "start": 66.0537815581854,
+      "end": 67.89159615384615,
+      "text": "nhạc của cá voi luôn luôn mới mẻ"
+    },
+    {
+      "start": 67.89159615384615,
+      "end": 68.63820833333334,
+      "text": "và sống động."
+    },
+    {
+      "start": 68.63820833333334,
+      "end": 70.09978348670757,
+      "text": "Việc hiểu được ngôn ngữ này"
+    },
+    {
+      "start": 70.09978348670757,
+      "end": 71.83202070552147,
+      "text": "không chỉ là khoa học, mà còn là"
+    },
+    {
+      "start": 71.83202070552147,
+      "end": 73.45599309815951,
+      "text": "sự kết nối với trí tuệ cổ xưa."
+    },
+    {
+      "start": 73.45599309815951,
+      "end": 75.18823031697342,
+      "text": "Đại dương không bao giờ im lặng,"
+    },
+    {
+      "start": 75.18823031697342,
+      "end": 76.92046753578732,
+      "text": "nó chỉ đang chờ chúng ta thực sự"
+    },
+    {
+      "start": 76.92046753578732,
+      "end": 77.46179166666667,
+      "text": "lắng nghe."
+    },
+    {
+      "start": 77.46179166666667,
+      "end": 79.19973498498499,
+      "text": "Nếu điều này khiến bạn nhìn thế"
+    },
+    {
+      "start": 79.19973498498499,
+      "end": 80.76949024024024,
+      "text": "giới khác đi, hãy để lại suy"
+    },
+    {
+      "start": 80.76949024024024,
+      "end": 82.50743355855856,
+      "text": "nghĩ bên dưới và theo dõi FACTS"
+    },
+    {
+      "start": 82.50743355855856,
+      "end": 83.68475000000001,
+      "text": "LAB để khám phá thêm."
+    }
+  ],
+  "audio": {
+    "voiceover": "assets/voiceover.wav",
+    "music": null
+  }
+}

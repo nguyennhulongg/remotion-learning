@@ -1,54 +1,56 @@
-# Remotion video
+# FACTS LAB — Remotion + Gemini v3.1
 
-<p align="center">
-  <a href="https://github.com/remotion-dev/logo">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng">
-      <img alt="Animated Remotion Logo" src="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif">
-    </picture>
-  </a>
-</p>
+Tạo kịch bản, 5 ảnh minh họa và giọng đọc tiếng Việt bằng Gemini, sau đó dựng video dọc 9:16 bằng Remotion.
 
-Welcome to your Remotion project!
+## 1. Cài đặt
 
-## Commands
-
-**Install Dependencies**
-
-```console
-npm i --loglevel=error
+```powershell
+npm install
+Copy-Item .env.example .env
 ```
 
-**Start Preview**
+Mở `.env`, điền `GEMINI_API_KEY`. Không chia sẻ API key.
 
-```console
+## 2. Chạy tạo video
+
+```powershell
+npm run generate -- "5 sự thật kỳ lạ về đại dương"
+```
+
+Script sẽ tạo:
+- `public/assets/video.json`: kịch bản
+- `public/assets/scenes/scene-1.png` ... `scene-5.png`: ảnh minh họa
+- `public/assets/voiceover.wav`: giọng đọc tiếng Việt
+
+## 3. Xem trước và render
+
+```powershell
 npm run dev
 ```
 
-**Render video**
+Trong Remotion Studio chọn composition `FactsVideo`.
 
-```console
-npx remotion render
+```powershell
+npm run render
 ```
 
-**Upgrade Remotion**
+Video xuất ra: `out/facts-video.mp4`.
 
-```console
-npx remotion upgrade
-```
+## 4. Tùy chỉnh
 
-## Docs
+Trong `.env`:
+- `GEMINI_MODEL`: model viết kịch bản.
+- `GEMINI_IMAGE_MODEL`: model tạo ảnh.
+- `GEMINI_TTS_MODEL`: model đọc lời thoại.
+- `GEMINI_TTS_VOICE`: giọng đọc, mặc định `Kore`.
+- `GENERATE_IMAGES=false`: bỏ qua tạo ảnh.
+- `GENERATE_VOICE=false`: bỏ qua tạo giọng đọc.
 
-Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
+Nếu API báo model không khả dụng, kiểm tra tên model và quyền truy cập của API key trong Google AI Studio.
 
-## Help
+## Lưu ý chi phí và chất lượng
 
-We provide help on our [Discord server](https://discord.gg/6VzzNDwUwV).
-
-## Issues
-
-Found an issue with Remotion? [File an issue here](https://github.com/remotion-dev/remotion/issues/new).
-
-## License
-
-Note that for some entities a company license is needed. [Read the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
+- Viết kịch bản bằng Gemini Flash-Lite thường có chi phí thấp.
+- Tạo ảnh Gemini không có free tier theo bảng giá hiện tại. Model `gemini-3.1-flash-lite-image` có giá tham khảo khoảng **0,0336 USD/ảnh 1K** ở Standard; 5 ảnh khoảng **0,168 USD**. Giá có thể thay đổi theo model, chất lượng và chế độ xử lý.
+- TTS có thể tính phí riêng tùy model và hạn mức tài khoản.
+- Kịch bản facts do AI tạo vẫn cần kiểm chứng trước khi đăng. Hình ảnh là minh họa, không phải bằng chứng khoa học.

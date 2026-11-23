@@ -1,34 +1,27 @@
 {
-  "name": "remotion",
-  "version": "1.0.0",
-  "description": "My Remotion video",
-  "repository": {},
-  "license": "UNLICENSED",
-  "engines": {
-    "node": "^20.19.0 || ^22.13.0 || >=24"
-  },
+  "name": "facts-video-engine-gemini-commons",
+  "version": "3.2.0",
   "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts FactsVideo out/facts-video.mp4",
+    "generate": "tsx scripts/generate-video.ts",
+    "typecheck": "tsc --noEmit"
+  },
   "dependencies": {
-    "@remotion/cli": "4.0.545",
-    "react": "19.3.1",
-    "react-dom": "19.3.1",
-    "remotion": "4.0.545"
+    "@remotion/cli": "^4.0.0",
+    "remotion": "^4.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "zod": "^3.24.0",
+    "dotenv": "^16.4.7",
+    "@google/genai": "^2.1.0"
   },
   "devDependencies": {
-    "@remotion/eslint-config-flat": "4.0.545",
-    "@types/react": "19.3.0",
-    "@types/web": "0.0.166",
-    "eslint": "10.12.0",
-    "prettier": "3.8.1",
-    "typescript": "5.9.3"
-  },
-  "scripts": {
-    "dev": "remotion studio",
-    "build": "remotion bundle",
-    "upgrade": "remotion upgrade",
-    "lint": "eslint src && tsc"
-  },
-  "allowScripts": {
-    "esbuild": false
+    "@types/node": "^22.0.0",
+    "@types/react": "^18.2.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
   }
 }
